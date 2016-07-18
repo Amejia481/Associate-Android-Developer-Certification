@@ -7,12 +7,15 @@ All the info and material about the certification that I've collected so far
 
 ### Certification topics
 
+[Diagram version][diagram]
 <img src="https://raw.githubusercontent.com/Amejia481/Associate-Android-Developer-Certification/master/img/android_certification_specs.png" align="center" >
+
 
 
 
 #### Testing and Debugging
 - Write and execute a local JVM unit test
+  - [Getting Started with Testing][testing_and_debuggin_getting_started_testing]
 - Write and execute a device UI test
 - Given a problem description, replicate the failure
 - Use the system log to output debug information
@@ -65,5 +68,5 @@ All the info and material about the certification that I've collected so far
 
 [google_io_announcement]:<https://www.youtube.com/watch?v=Yu2oGere_Mc&index=13&list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [certification_specs]:<https://www.udacity.com/google-certifications>
-
-
+[testing_and_debuggin_getting_started_testing]:<https://developer.android.com/training/testing/start/index.html>
+[diagram]:<https://coggle.it/diagram/V4zu4UNht0Q0XiTy/0a02ec0ffa8bc95928de4478d1ae1f45a85a8e16cddc07f5180bc9f18b2c63e1>
