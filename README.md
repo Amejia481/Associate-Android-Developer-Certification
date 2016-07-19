@@ -11,12 +11,14 @@ All the info and material about the certification that I've collected so far
 <img src="https://raw.githubusercontent.com/Amejia481/Associate-Android-Developer-Certification/master/img/android_certification_specs.png" align="center" >
 
 
-
-
 #### Testing and Debugging
 - Write and execute a local JVM unit test
   - [Getting Started with Testing][testing_and_debuggin_getting_started_testing]
+  - [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
   - [Play List Android Testing Patterns][testing_debuggin_play_list_android_testing_patterns]
+  - [Android Testing Codelab][testing_and_debugging_testing_codelab]
+  - [Android Testing Samples][testing_and_debugging_android_test_samples]
+  - [Android Testing Blueprint][testing_and_debugging_android_testing_blue_print]
 - Write and execute a device UI test
   - [Automating User Interface Tests][testing_debuggin_ui_testing]
   - [Espresso][testing_and_debuggin_espresso]
@@ -78,6 +80,10 @@ All the info and material about the certification that I've collected so far
 [google_io_announcement]:<https://www.youtube.com/watch?v=Yu2oGere_Mc&index=13&list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [certification_specs]:<https://www.udacity.com/google-certifications>
 [testing_and_debuggin_getting_started_testing]:<https://developer.android.com/training/testing/start/index.html>
+[testing_and_debugging_android_testing_blue_print]:<https://github.com/googlesamples/android-testing-templates>
+[testing_and_debugging_testing_codelab]:<https://codelabs.developers.google.com/codelabs/android-testing/#1>
+[testing_and_debugging_building_effective_unit_test]:<https://developer.android.com/training/testing/unit-testing/index.html>
+[testing_and_debugging_android_test_samples]:<https://github.com/googlesamples/android-testing>
 [testing_debuggin_ui_testing]:<https://developer.android.com/training/testing/ui-testing/index.html>
 [testing_and_debuggin_espresso]:<https://google.github.io/android-testing-support-library/docs/espresso/index.html>
 [testing_and_debuggin_ui_automator]:<https://google.github.io/android-testing-support-library/docs/uiautomator/index.html>
