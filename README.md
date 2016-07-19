@@ -18,7 +18,15 @@ All the info and material about the certification that I've collected so far
   - [Getting Started with Testing][testing_and_debuggin_getting_started_testing]
   - [Play List Android Testing Patterns][testing_debuggin_play_list_android_testing_patterns]
 - Write and execute a device UI test
+  - [Automating User Interface Tests][testing_debuggin_ui_testing]
+  - [Espresso][testing_and_debuggin_espresso]
+  - [UI Automator][testing_and_debuggin_ui_automator]
+  - [Advanced Espresso Google I/O 2016][testing_and_debugging_google_io]
+  - [Advanced Android Espresso (Big Android BBQ 2016)][testing_and_debugging_advanced_android_espresso_bbq]
+  
+ 
 - Given a problem description, replicate the failure
+  - [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
 - Use the system log to output debug information
 - Debug and fix an application crash (uncaught exception)
 - Debug and fix an activity lifecycle issue
@@ -70,5 +78,11 @@ All the info and material about the certification that I've collected so far
 [google_io_announcement]:<https://www.youtube.com/watch?v=Yu2oGere_Mc&index=13&list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [certification_specs]:<https://www.udacity.com/google-certifications>
 [testing_and_debuggin_getting_started_testing]:<https://developer.android.com/training/testing/start/index.html>
+[testing_debuggin_ui_testing]:<https://developer.android.com/training/testing/ui-testing/index.html>
+[testing_and_debuggin_espresso]:<https://google.github.io/android-testing-support-library/docs/espresso/index.html>
+[testing_and_debuggin_ui_automator]:<https://google.github.io/android-testing-support-library/docs/uiautomator/index.html>
+[testing_and_debugging_google_io]:<https://www.youtube.com/watch?v=isihPOY2vS4&index=29&list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [testing_debuggin_play_list_android_testing_patterns]:<https://www.youtube.com/watch?v=W8LJjfkTKik&list=PLWz5rJ2EKKc-6HWg_jyP0U1zrVLHn65b2>
+[testing_and_debugging_advanced_android_espresso_bbq]:<https://www.youtube.com/watch?v=hfoAC9gdC74&list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z&index=6>
+[testing_and_debugging_experts_app_clinic]:<https://www.youtube.com/watch?v=Fhj7IIsAgyE&index=61&list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [diagram]:<https://coggle.it/diagram/V4zu4UNht0Q0XiTy/0a02ec0ffa8bc95928de4478d1ae1f45a85a8e16cddc07f5180bc9f18b2c63e1>
