@@ -19,6 +19,8 @@ All the info and material about the certification that I've collected so far
   - [Android Testing Codelab][testing_and_debugging_testing_codelab]
   - [Android Testing Samples][testing_and_debugging_android_test_samples]
   - [Android Testing Blueprint][testing_and_debugging_android_testing_blue_print]
+  - [Intro to testing part 1, @riggaroo][testing_and_debugging_intro_testing_reggaroo]
+  - [Intro to testing part 2, @riggaroo][testing_and_debugging_intro_testing_reggaroo_1]
 - Write and execute a device UI test
   - [Automating User Interface Tests][testing_debuggin_ui_testing]
   - [Espresso][testing_and_debuggin_espresso]
@@ -91,4 +93,7 @@ All the info and material about the certification that I've collected so far
 [testing_debuggin_play_list_android_testing_patterns]:<https://www.youtube.com/watch?v=W8LJjfkTKik&list=PLWz5rJ2EKKc-6HWg_jyP0U1zrVLHn65b2>
 [testing_and_debugging_advanced_android_espresso_bbq]:<https://www.youtube.com/watch?v=hfoAC9gdC74&list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z&index=6>
 [testing_and_debugging_experts_app_clinic]:<https://www.youtube.com/watch?v=Fhj7IIsAgyE&index=61&list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
+[testing_and_debugging_intro_testing_reggaroo]:<https://riggaroo.co.za/introduction-automated-android-testing/>
+[testing_and_debugging_intro_testing_reggaroo_1]:<https://riggaroo.co.za/automated-android-testing-part-2-setup/>
+
 [diagram]:<https://coggle.it/diagram/V4zu4UNht0Q0XiTy/0a02ec0ffa8bc95928de4478d1ae1f45a85a8e16cddc07f5180bc9f18b2c63e1>
