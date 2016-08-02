@@ -21,14 +21,16 @@ All the info and material about the certification that I've collected so far
   - [Android Testing Blueprint][testing_and_debugging_android_testing_blue_print]
   - [Intro to testing part 1, @riggaroo][testing_and_debugging_intro_testing_reggaroo]
   - [Intro to testing part 2, @riggaroo][testing_and_debugging_intro_testing_reggaroo_1]
+  - [Intro to testing part 3, @riggaroo][testing_and_debugging_intro_testing_reggaroo_3]
 - Write and execute a device UI test
   - [Automating User Interface Tests][testing_debuggin_ui_testing]
   - [Espresso][testing_and_debuggin_espresso]
   - [UI Automator][testing_and_debuggin_ui_automator]
   - [Advanced Espresso Google I/O 2016][testing_and_debugging_google_io]
   - [Advanced Android Espresso (Big Android BBQ 2016)][testing_and_debugging_advanced_android_espresso_bbq]
-  
- 
+  - [Espresso cheat sheet][testing_and_debugging_espresso_cheat_sheet]
+  - [Espresso Serie Caster][testing_and_debugging_espresso_serie_caster]
+
 - Given a problem description, replicate the failure
   - [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
 - Use the system log to output debug information
@@ -95,5 +97,7 @@ All the info and material about the certification that I've collected so far
 [testing_and_debugging_experts_app_clinic]:<https://www.youtube.com/watch?v=Fhj7IIsAgyE&index=61&list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [testing_and_debugging_intro_testing_reggaroo]:<https://riggaroo.co.za/introduction-automated-android-testing/>
 [testing_and_debugging_intro_testing_reggaroo_1]:<https://riggaroo.co.za/automated-android-testing-part-2-setup/>
-
+[testing_and_debugging_intro_testing_reggaroo_3]:<https://riggaroo.co.za/introduction-android-testing-part3/>
+[testing_and_debugging_espresso_cheat_sheet]:<https://google.github.io/android-testing-support-library/docs/espresso/cheatsheet/> 
+[testing_and_debugging_espresso_serie_caster]:<https://caster.io/series/espresso>
 [diagram]:<https://coggle.it/diagram/V4zu4UNht0Q0XiTy/0a02ec0ffa8bc95928de4478d1ae1f45a85a8e16cddc07f5180bc9f18b2c63e1>
