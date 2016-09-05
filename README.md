@@ -71,6 +71,7 @@ All the info and material about the certification that I've collected so far
 - Insert new items into a database
 - Update or delete existing items in a database
 - Expose a database to other applications via Content Provider
+  - [How to Use a Content Provider][persistent_data_storage_udacity_how_to_use_content_provider]
 - Read and parse raw resources or asset files
 - Create persistent preference data from user input
 - Toggle application logic based on preference values
@@ -100,4 +101,5 @@ All the info and material about the certification that I've collected so far
 [testing_and_debugging_intro_testing_reggaroo_3]:<https://riggaroo.co.za/introduction-android-testing-part3/>
 [testing_and_debugging_espresso_cheat_sheet]:<https://google.github.io/android-testing-support-library/docs/espresso/cheatsheet/> 
 [testing_and_debugging_espresso_serie_caster]:<https://caster.io/series/espresso>
+[persistent_data_storage_udacity_how_to_use_content_provider]:<https://www.udacity.com/course/how-to-use-a-content-provider--ud258>
 [diagram]:<https://coggle.it/diagram/V4zu4UNht0Q0XiTy/0a02ec0ffa8bc95928de4478d1ae1f45a85a8e16cddc07f5180bc9f18b2c63e1>
