@@ -4,6 +4,8 @@ All the info and material about the certification that I've collected so far
 ### General information
 - [Announcement on Google I/O 2016][google_io_announcement]
 - [Associate Android Developer certification Specs][certification_specs]
+- [Udacity Course Developing Android Apps Covers the Certification Topics][developing_apps_udacity]
+- [Associate Android Developer Fast Track][fast_track]
 
 ### Certification topics
 
@@ -103,3 +105,5 @@ All the info and material about the certification that I've collected so far
 [testing_and_debugging_espresso_serie_caster]:<https://caster.io/series/espresso>
 [persistent_data_storage_udacity_how_to_use_content_provider]:<https://www.udacity.com/course/how-to-use-a-content-provider--ud258>
 [diagram]:<https://coggle.it/diagram/V4zu4UNht0Q0XiTy/0a02ec0ffa8bc95928de4478d1ae1f45a85a8e16cddc07f5180bc9f18b2c63e1>
+[developing_apps_udacity]:<https://www.udacity.com/course/ud851>
+[fast_track]:<https://www.udacity.com/course/associate-android-developer-fast-track--nd818>
