@@ -1,5 +1,9 @@
 # Associate Android Developer Certification
-All the info and material about the certification that I've collected so far
+All the info and material about the certification that I've collected so far.
+
+
+### Video Intro
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/JoJbQHCvyw0/0.jpg)](https://youtu.be/JoJbQHCvyw0 "Video Title")
 
 ### General information
 - [Announcement on Google I/O 2016][google_io_announcement]
@@ -15,7 +19,9 @@ All the info and material about the certification that I've collected so far
 
 #### Testing and Debugging
 - Write and execute a local JVM unit test
-  - [Getting Started with Testing][testing_and_debuggin_getting_started_testing]
+  - Getting Started with Testing
+    - [Android Developer Training][testing_and_debuggin_getting_started_testing]
+    - [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
   - [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
   - [Play List Android Testing Patterns][testing_debuggin_play_list_android_testing_patterns]
   - [Android Testing Codelab][testing_and_debugging_testing_codelab]
@@ -103,6 +109,7 @@ All the info and material about the certification that I've collected so far
 [testing_and_debugging_intro_testing_reggaroo_3]:<https://riggaroo.co.za/introduction-android-testing-part3/>
 [testing_and_debugging_espresso_cheat_sheet]:<https://google.github.io/android-testing-support-library/docs/espresso/cheatsheet/> 
 [testing_and_debugging_espresso_serie_caster]:<https://caster.io/series/espresso>
+[testing_and_debuggin_udacity_course]:<https://www.udacity.com/course/software-testing--cs258>
 [persistent_data_storage_udacity_how_to_use_content_provider]:<https://www.udacity.com/course/how-to-use-a-content-provider--ud258>
 [diagram]:<https://coggle.it/diagram/V4zu4UNht0Q0XiTy/0a02ec0ffa8bc95928de4478d1ae1f45a85a8e16cddc07f5180bc9f18b2c63e1>
 [developing_apps_udacity]:<https://www.udacity.com/course/ud851>
