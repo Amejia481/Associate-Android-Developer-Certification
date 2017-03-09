@@ -22,6 +22,7 @@ All the info and material about the certification that I've collected so far.
   - Getting Started with Testing
     - [Android Developer Training][testing_and_debuggin_getting_started_testing]
     - [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
+    - [Treehouse Testing in Android Course][treehouse_testing_course]
   - [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
   - [Play List Android Testing Patterns][testing_debuggin_play_list_android_testing_patterns]
   - [Android Testing Codelab][testing_and_debugging_testing_codelab]
@@ -53,6 +54,8 @@ All the info and material about the certification that I've collected so far.
 - Create a custom view class and add it to a layout
 - Implement a custom application theme
 - Apply a custom style to a group of common widgets
+  - [Android Developers docs about Widget][android_developers_about_widget]
+  - [TreeHouse Widgets Workshop][treehouse_widget_workshop]
 - Define a RecyclerView item list
 - Bind local data to a RecyclerView list
 - Implement menu-based or drawer navigation
@@ -92,6 +95,9 @@ All the info and material about the certification that I've collected so far.
 
 [google_io_announcement]:<https://www.youtube.com/watch?v=Yu2oGere_Mc&index=13&list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [certification_specs]:<https://www.udacity.com/google-certifications>
+
+<!--( BEGINNING Testing and Debugging)--> 
+
 [testing_and_debuggin_getting_started_testing]:<https://developer.android.com/training/testing/start/index.html>
 [testing_and_debugging_android_testing_blue_print]:<https://github.com/googlesamples/android-testing-templates>
 [testing_and_debugging_testing_codelab]:<https://codelabs.developers.google.com/codelabs/android-testing/#1>
@@ -110,7 +116,18 @@ All the info and material about the certification that I've collected so far.
 [testing_and_debugging_espresso_cheat_sheet]:<https://google.github.io/android-testing-support-library/docs/espresso/cheatsheet/> 
 [testing_and_debugging_espresso_serie_caster]:<https://caster.io/series/espresso>
 [testing_and_debuggin_udacity_course]:<https://www.udacity.com/course/software-testing--cs258>
+[treehouse_testing_course]:<https://teamtreehouse.com/library/testing-in-android>
+
+<!--( END Testing and Debugging)--> 
+
 [persistent_data_storage_udacity_how_to_use_content_provider]:<https://www.udacity.com/course/how-to-use-a-content-provider--ud258>
 [diagram]:<https://coggle.it/diagram/V4zu4UNht0Q0XiTy/0a02ec0ffa8bc95928de4478d1ae1f45a85a8e16cddc07f5180bc9f18b2c63e1>
 [developing_apps_udacity]:<https://www.udacity.com/course/ud851>
 [fast_track]:<https://www.udacity.com/course/associate-android-developer-fast-track--nd818>
+
+<!--(BEGINNING Application User Interface (UI) and User Experience (UX))--> 
+
+[android_developers_about_widget]:<https://developer.android.com/guide/topics/appwidgets/index.html>
+[treehouse_widget_workshop]:<https://teamtreehouse.com/library/android-widgets>
+
+<!--(END Application User Interface (UI) and User Experience (UX))--> 
