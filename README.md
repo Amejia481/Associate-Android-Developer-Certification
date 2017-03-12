@@ -89,7 +89,11 @@ All the info and material about the certification that I've collected so far.
 
 #### Enhanced System Integration
 - Create an app widget that displays on the device home screen
+  - [Android Developers docs about Widget][android_developers_about_widget]
+  - [TreeHouse Widgets Workshop][treehouse_widget_workshop]
 - Implement a task to update the app widget periodically
+  - [Android Developers docs about Widget][android_developers_about_widget]
+  - [TreeHouse Widgets Workshop][treehouse_widget_workshop]
 - Create and display a notification to the user
 
 
