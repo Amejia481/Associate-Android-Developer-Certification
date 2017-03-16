@@ -1,6 +1,7 @@
 # Associate Android Developer Certification
 All the info and material about the certification that I've collected so far.
 
+**Pull Request are welcome!**
 
 ### Video Intro
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/JoJbQHCvyw0/0.jpg)](https://youtu.be/JoJbQHCvyw0 "Video Title")
@@ -59,6 +60,9 @@ All the info and material about the certification that I've collected so far.
 - Define a RecyclerView item list
 - Bind local data to a RecyclerView list
 - Implement menu-based or drawer navigation
+  - [Creating a Navigation Drawer - Android Developers Page][ui_ux_android_page_creating_drawer]
+  - [Android Design Support Library Navigation View - Android Developers Blog][ui_ux_android_developer_blog_navigation_view]
+  - [How to Add a Navigation Drawer in Android - Blog Team Treehouse][ui_ux_team_treehouse_blog_navigation_drawer]
 - Localize the application's UI text into one other language
 - Apply content descriptions to views for accessibility
 - Add accessibility hooks to a custom view
@@ -102,6 +106,12 @@ All the info and material about the certification that I've collected so far.
 
 <!--( BEGINNING Testing and Debugging)--> 
 
+[ui_ux_android_page_creating_drawer]:<https://developer.android.com/training/implementing-navigation/nav-drawer.html>
+[ui_ux_android_developer_blog_navigation_view]:<https://android-developers.googleblog.com/search?q=Navigation+Drawer+Pattern>
+<!--( END Testing and Debugging)--> 
+
+<!--( BEGINNING Testing and Debugging)--> 
+
 [testing_and_debuggin_getting_started_testing]:<https://developer.android.com/training/testing/start/index.html>
 [testing_and_debugging_android_testing_blue_print]:<https://github.com/googlesamples/android-testing-templates>
 [testing_and_debugging_testing_codelab]:<https://codelabs.developers.google.com/codelabs/android-testing/#1>
@@ -128,6 +138,7 @@ All the info and material about the certification that I've collected so far.
 [diagram]:<https://coggle.it/diagram/V4zu4UNht0Q0XiTy/0a02ec0ffa8bc95928de4478d1ae1f45a85a8e16cddc07f5180bc9f18b2c63e1>
 [developing_apps_udacity]:<https://www.udacity.com/course/ud851>
 [fast_track]:<https://www.udacity.com/course/associate-android-developer-fast-track--nd818>
+[ui_ux_team_treehouse_blog_navigation_drawer]:<http://blog.teamtreehouse.com/add-navigation-drawer-android>
 
 <!--(BEGINNING Application User Interface (UI) and User Experience (UX))--> 
 
