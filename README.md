@@ -60,9 +60,10 @@ All the info and material about the certification that I've collected so far.
 - Define a RecyclerView item list
 - Bind local data to a RecyclerView list
 - Implement menu-based or drawer navigation
-  - [Creating a Navigation Drawer - Android Developers Page][ui_ux_android_page_creating_drawer]
-  - [Android Design Support Library Navigation View - Android Developers Blog][ui_ux_android_developer_blog_navigation_view]
-  - [How to Add a Navigation Drawer in Android - Blog Team Treehouse][ui_ux_team_treehouse_blog_navigation_drawer]
+  - [[Android Developers Page] Creating a Navigation Drawer][ui_ux_android_page_creating_drawer]
+  - [[Android Developers Blog] Android Design Support Library Navigation View][ui_ux_android_developer_blog_navigation_view]
+  - [[Team Treehouse Blog] How to Add a Navigation Drawer in Android][ui_ux_team_treehouse_blog_navigation_drawer]
+  - [[Antonio Leiva Blog] Design Support Library (I): Navigation View][ui_ux_navigation_view]
 - Localize the application's UI text into one other language
 - Apply content descriptions to views for accessibility
 - Add accessibility hooks to a custom view
@@ -80,35 +81,37 @@ All the info and material about the certification that I've collected so far.
 
 #### Persistent Data Storage
 - Define a database schema; include tables, fields, and indices
+  - [[Android Developers Page]  Saving Data in SQL Databases][db_android_guide_database]
+  - [[Udacity Course]  Data Storage][db_udacity]
 - Create an application-private database file
 - Construct database queries returning single results
+  - [[Android Developers Page] Read Information from a Database][db_android_guide_database_read]
 - Construct database queries returning multiple results
+  - [[Android Developers Page]  Read Information from a Database][db_android_guide_database_read]
 - Insert new items into a database
+  - [[Android Developers Page]  Put Information into a Database][db_android_guide_database_write]
 - Update or delete existing items in a database
+  - [[Android Developers Page]  Update a Database][db_android_guide_database_update]
+  - [[Android Developers Page]  Delete Information from a Database][db_android_guide_database_delete]
 - Expose a database to other applications via Content Provider
-  - [How to Use a Content Provider][persistent_data_storage_udacity_how_to_use_content_provider]
+  - [[Udacity Course] How to Use a Content Provider][persistent_data_storage_udacity_how_to_use_content_provider]
 - Read and parse raw resources or asset files
 - Create persistent preference data from user input
 - Toggle application logic based on preference values
 
 #### Enhanced System Integration
 - Create an app widget that displays on the device home screen
-  - [Android Developers docs about Widget][android_developers_about_widget]
-  - [TreeHouse Widgets Workshop][treehouse_widget_workshop]
+  - [[Android Developers docs] about Widget][android_developers_about_widget]
+  - [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
 - Implement a task to update the app widget periodically
-  - [Android Developers docs about Widget][android_developers_about_widget]
-  - [TreeHouse Widgets Workshop][treehouse_widget_workshop]
+  - [[Android Developers Page] Widget][android_developers_about_widget]
+  - [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
 - Create and display a notification to the user
 
 
 [google_io_announcement]:<https://www.youtube.com/watch?v=Yu2oGere_Mc&index=13&list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [certification_specs]:<https://www.udacity.com/google-certifications>
 
-<!--( BEGINNING Testing and Debugging)--> 
-
-[ui_ux_android_page_creating_drawer]:<https://developer.android.com/training/implementing-navigation/nav-drawer.html>
-[ui_ux_android_developer_blog_navigation_view]:<https://android-developers.googleblog.com/search?q=Navigation+Drawer+Pattern>
-<!--( END Testing and Debugging)--> 
 
 <!--( BEGINNING Testing and Debugging)--> 
 
@@ -142,7 +145,21 @@ All the info and material about the certification that I've collected so far.
 
 <!--(BEGINNING Application User Interface (UI) and User Experience (UX))--> 
 
+<!--(BEGINNING Persistent Data Storage)--> 
+  [db_android_guide_database]:<https://developer.android.com/training/basics/data-storage/databases.html>
+  [db_android_guide_database_read]:<https://developer.android.com/training/basics/data-storage/databases.html#ReadDbRow>
+  [db_android_guide_database_write]:<https://developer.android.com/training/basics/data-storage/databases.html#WriteDbRow>
+  [db_android_guide_database_update]:<https://developer.android.com/training/basics/data-storage/databases.html#UpdateDbRow>
+  [db_android_guide_database_delete]:<https://developer.android.com/training/basics/data-storage/databases.html#DeleteDbRow>
+  [db_udacity]:<https://br.udacity.com/course/android-basics-data-storage--ud845/>
+<!--(END Persistent Data Storage)--> 
+
+
+
 [android_developers_about_widget]:<https://developer.android.com/guide/topics/appwidgets/index.html>
 [treehouse_widget_workshop]:<https://teamtreehouse.com/library/android-widgets>
+[ui_ux_android_page_creating_drawer]:<https://developer.android.com/training/implementing-navigation/nav-drawer.html>
+[ui_ux_android_developer_blog_navigation_view]:<https://android-developers.googleblog.com/2015/05/android-design-support-library.html>
+[ui_ux_navigation_view]:<https://antonioleiva.com/navigation-view/>
 
 <!--(END Application User Interface (UI) and User Experience (UX))--> 
