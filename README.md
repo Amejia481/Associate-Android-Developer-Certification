@@ -83,6 +83,7 @@ All the info and material about the certification that I've collected so far.
 - Define a database schema; include tables, fields, and indices
   - [[Android Developers Page]  Saving Data in SQL Databases][db_android_guide_database]
   - [[Udacity Course]  Data Storage][db_udacity]
+  - [[Team Treehouse] Android Data Persistence][db_treehouse_data_persistence]
 - Create an application-private database file
 - Construct database queries returning single results
   - [[Android Developers Page] Read Information from a Database][db_android_guide_database_read]
@@ -96,6 +97,7 @@ All the info and material about the certification that I've collected so far.
 - Expose a database to other applications via Content Provider
   - [[Udacity Course] How to Use a Content Provider][persistent_data_storage_udacity_how_to_use_content_provider]
 - Read and parse raw resources or asset files
+  - [[Team Treehouse] Android Data Persistence][db_treehouse_data_persistence]
 - Create persistent preference data from user input
 - Toggle application logic based on preference values
 
@@ -152,6 +154,7 @@ All the info and material about the certification that I've collected so far.
   [db_android_guide_database_update]:<https://developer.android.com/training/basics/data-storage/databases.html#UpdateDbRow>
   [db_android_guide_database_delete]:<https://developer.android.com/training/basics/data-storage/databases.html#DeleteDbRow>
   [db_udacity]:<https://br.udacity.com/course/android-basics-data-storage--ud845/>
+  [db_treehouse_data_persistence]:<https://teamtreehouse.com/library/android-data-persistence/>
 <!--(END Persistent Data Storage)--> 
 
 
