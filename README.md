@@ -153,7 +153,7 @@ All the info and material about the certification that I've collected so far.
   [db_android_guide_database_write]:<https://developer.android.com/training/basics/data-storage/databases.html#WriteDbRow>
   [db_android_guide_database_update]:<https://developer.android.com/training/basics/data-storage/databases.html#UpdateDbRow>
   [db_android_guide_database_delete]:<https://developer.android.com/training/basics/data-storage/databases.html#DeleteDbRow>
-  [db_udacity]:<https://br.udacity.com/course/android-basics-data-storage--ud845/>
+  [db_udacity]:<https://in.udacity.com/course/android-basics-data-storage--ud845/>
   [db_treehouse_data_persistence]:<https://teamtreehouse.com/library/android-data-persistence/>
 <!--(END Persistent Data Storage)--> 
 
