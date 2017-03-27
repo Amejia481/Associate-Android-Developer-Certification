@@ -64,6 +64,7 @@ All the info and material about the certification that I've collected so far.
   - [[Android Developers Blog] Android Design Support Library Navigation View][ui_ux_android_developer_blog_navigation_view]
   - [[Team Treehouse Blog] How to Add a Navigation Drawer in Android][ui_ux_team_treehouse_blog_navigation_drawer]
   - [[Antonio Leiva Blog] Design Support Library (I): Navigation View][ui_ux_navigation_view]
+  - [[Android Development Patterns] Episode 8 Navigation Drawer, DrawerLayout, and NavigationView](https://www.youtube.com/watch?v=DkT0vS14Um0&feature=youtu.be&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
 - Localize the application's UI text into one other language
 - Apply content descriptions to views for accessibility
 - Add accessibility hooks to a custom view
@@ -72,7 +73,9 @@ All the info and material about the certification that I've collected so far.
 - Describe an application's key functional and nonfunctional requirements
 - Create an Activity that displays a layout resource
 - Fetch local data from disk using a Loader on a background thread
+  - [[Udacity Course]  Data Storage Lesson 4: Loading Data Using CursorLoader][db_udacity]
 - Propagate data changes through a Loader to the UI
+  - [[Udacity Course]  Data Storage Lesson 4: Loading Data Using CursorLoader][db_udacity]
 - Schedule a time-sensitive task using alarms
 - Schedule a background task using JobScheduler
 - Execute a background task inside of a Service
@@ -96,6 +99,7 @@ All the info and material about the certification that I've collected so far.
   - [[Android Developers Page]  Delete Information from a Database][db_android_guide_database_delete]
 - Expose a database to other applications via Content Provider
   - [[Udacity Course] How to Use a Content Provider][persistent_data_storage_udacity_how_to_use_content_provider]
+  - [[Udacity Course]  Data Storage Lesson 3: Introduction To Content Providers][db_udacity]
 - Read and parse raw resources or asset files
   - [[Team Treehouse] Android Data Persistence][db_treehouse_data_persistence]
 - Create persistent preference data from user input
@@ -105,6 +109,7 @@ All the info and material about the certification that I've collected so far.
 - Create an app widget that displays on the device home screen
   - [[Android Developers docs] about Widget][android_developers_about_widget]
   - [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
+  - [[Android Development Patterns] Episode 2 Your app, their home screen: Widgets](https://www.youtube.com/watch?v=crsmPedDyoU)
 - Implement a task to update the app widget periodically
   - [[Android Developers Page] Widget][android_developers_about_widget]
   - [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
