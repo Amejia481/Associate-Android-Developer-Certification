@@ -44,21 +44,32 @@ All the info and material about the certification that I've collected so far.
 - Given a problem description, replicate the failure
   - [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
 - Use the system log to output debug information
+     - [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
 - Debug and fix an application crash (uncaught exception)
+   - [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 - Debug and fix an activity lifecycle issue
+   - [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 - Debug and fix an issue binding data to views
+    - [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 
 #### Application User Interface (UI) and User Experience (UX)
 - Mock up the main screens and navigation flow of the application
 - Describe interactions between UI, background task, and data persistence
 - Construct a layout using XML or Java code
+  - [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
 - Create a custom view class and add it to a layout
 - Implement a custom application theme
 - Apply a custom style to a group of common widgets
   - [Android Developers docs about Widget][android_developers_about_widget]
   - [TreeHouse Widgets Workshop][treehouse_widget_workshop]
 - Define a RecyclerView item list
+  - [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
+  - [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
+  - [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
 - Bind local data to a RecyclerView list
+  - [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
+  - [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
+  - [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
 - Implement menu-based or drawer navigation
   - [[Android Developers Page] Creating a Navigation Drawer][ui_ux_android_page_creating_drawer]
   - [[Android Developers Blog] Android Design Support Library Navigation View][ui_ux_android_developer_blog_navigation_view]
@@ -66,6 +77,9 @@ All the info and material about the certification that I've collected so far.
   - [[Antonio Leiva Blog] Design Support Library (I): Navigation View][ui_ux_navigation_view]
   - [[Android Development Patterns] Episode 8 Navigation Drawer, DrawerLayout, and NavigationView](https://www.youtube.com/watch?v=DkT0vS14Um0&feature=youtu.be&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
 - Localize the application's UI text into one other language
+  - [[Android Developer Page] Localizing with Resources](https://developer.android.com/guide/topics/resources/localization.html)
+  - [[Android Developer Page] Supporting Different Languages and Cultures](https://developer.android.com/training/basics/supporting-devices/languages.html)
+  - [[Treehouse Course] Localization in Android](https://teamtreehouse.com/library/localization-in-android)
 - Apply content descriptions to views for accessibility
 - Add accessibility hooks to a custom view
 
@@ -137,12 +151,12 @@ All the info and material about the certification that I've collected so far.
 [testing_and_debugging_intro_testing_reggaroo]:<https://riggaroo.co.za/introduction-automated-android-testing/>
 [testing_and_debugging_intro_testing_reggaroo_1]:<https://riggaroo.co.za/automated-android-testing-part-2-setup/>
 [testing_and_debugging_intro_testing_reggaroo_3]:<https://riggaroo.co.za/introduction-android-testing-part3/>
-[testing_and_debugging_espresso_cheat_sheet]:<https://google.github.io/android-testing-support-library/docs/espresso/cheatsheet/> 
+[testing_and_debugging_espresso_cheat_sheet]:<https://google.github.io/android-testing-support-library/docs/espresso/cheatsheet/>
 [testing_and_debugging_espresso_serie_caster]:<https://caster.io/series/espresso>
 [testing_and_debuggin_udacity_course]:<https://www.udacity.com/course/software-testing--cs258>
 [treehouse_testing_course]:<https://teamtreehouse.com/library/testing-in-android>
 
-<!--( END Testing and Debugging)--> 
+<!--( END Testing and Debugging)-->
 
 [persistent_data_storage_udacity_how_to_use_content_provider]:<https://www.udacity.com/course/how-to-use-a-content-provider--ud258>
 [diagram]:<https://coggle.it/diagram/V4zu4UNht0Q0XiTy/0a02ec0ffa8bc95928de4478d1ae1f45a85a8e16cddc07f5180bc9f18b2c63e1>
@@ -150,9 +164,9 @@ All the info and material about the certification that I've collected so far.
 [fast_track]:<https://www.udacity.com/course/associate-android-developer-fast-track--nd818>
 [ui_ux_team_treehouse_blog_navigation_drawer]:<http://blog.teamtreehouse.com/add-navigation-drawer-android>
 
-<!--(BEGINNING Application User Interface (UI) and User Experience (UX))--> 
+<!--(BEGINNING Application User Interface (UI) and User Experience (UX))-->
 
-<!--(BEGINNING Persistent Data Storage)--> 
+<!--(BEGINNING Persistent Data Storage)-->
   [db_android_guide_database]:<https://developer.android.com/training/basics/data-storage/databases.html>
   [db_android_guide_database_read]:<https://developer.android.com/training/basics/data-storage/databases.html#ReadDbRow>
   [db_android_guide_database_write]:<https://developer.android.com/training/basics/data-storage/databases.html#WriteDbRow>
@@ -160,9 +174,7 @@ All the info and material about the certification that I've collected so far.
   [db_android_guide_database_delete]:<https://developer.android.com/training/basics/data-storage/databases.html#DeleteDbRow>
   [db_udacity]:<https://in.udacity.com/course/android-basics-data-storage--ud845/>
   [db_treehouse_data_persistence]:<https://teamtreehouse.com/library/android-data-persistence/>
-<!--(END Persistent Data Storage)--> 
-
-
+<!--(END Persistent Data Storage)-->
 
 [android_developers_about_widget]:<https://developer.android.com/guide/topics/appwidgets/index.html>
 [treehouse_widget_workshop]:<https://teamtreehouse.com/library/android-widgets>
@@ -170,4 +182,4 @@ All the info and material about the certification that I've collected so far.
 [ui_ux_android_developer_blog_navigation_view]:<https://android-developers.googleblog.com/2015/05/android-design-support-library.html>
 [ui_ux_navigation_view]:<https://antonioleiva.com/navigation-view/>
 
-<!--(END Application User Interface (UI) and User Experience (UX))--> 
+<!--(END Application User Interface (UI) and User Experience (UX))-->
