@@ -91,8 +91,11 @@ All the info and material about the certification that I've collected so far.
 - Propagate data changes through a Loader to the UI
   - [[Udacity Course]  Data Storage Lesson 4: Loading Data Using CursorLoader][db_udacity]
 - Schedule a time-sensitive task using alarms
+  - [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - Schedule a background task using JobScheduler
+  - [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - Execute a background task inside of a Service
+  - [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - Implement non-standard task stack navigation (deep links)
 - Integrate code from an external support library
 
@@ -128,7 +131,8 @@ All the info and material about the certification that I've collected so far.
   - [[Android Developers Page] Widget][android_developers_about_widget]
   - [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
 - Create and display a notification to the user
-
+  - [[Android Developer Page] Building a Notification](https://developer.android.com/training/notify-user/build-notification.html)
+  - [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
 [google_io_announcement]:<https://www.youtube.com/watch?v=Yu2oGere_Mc&index=13&list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte>
 [certification_specs]:<https://www.udacity.com/google-certifications>
