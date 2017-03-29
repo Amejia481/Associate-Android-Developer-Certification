@@ -58,6 +58,7 @@ All the info and material about the certification that I've collected so far.
 - Construct a layout using XML or Java code
   - [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
 - Create a custom view class and add it to a layout
+  - [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
 - Implement a custom application theme
 - Apply a custom style to a group of common widgets
   - [Android Developers docs about Widget][android_developers_about_widget]
@@ -97,6 +98,9 @@ All the info and material about the certification that I've collected so far.
 - Execute a background task inside of a Service
   - [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - Implement non-standard task stack navigation (deep links)
+   -  [[Android Developer Page] Enabling Deep Links for Apps content](https://developer.android.com/training/app-indexing/deep-linking.html)
+   -  [[Team Treehouse Course] Deep Links](https://teamtreehouse.com/library/deep-links)
+   -  [[Jayway Blog] The Browseable Category](https://blog.jayway.com/2009/09/24/the-browsable-category-revealed/)
 - Integrate code from an external support library
 
 #### Persistent Data Storage
