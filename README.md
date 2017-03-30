@@ -54,6 +54,9 @@ All the info and material about the certification that I've collected so far.
 
 #### Application User Interface (UI) and User Experience (UX)
 - Mock up the main screens and navigation flow of the application
+  - [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
+  - [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Polishing the UI](https://www.udacity.com/course/new-android-fundamentals--ud851)
+  
 - Describe interactions between UI, background task, and data persistence
 - Construct a layout using XML or Java code
   - [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
