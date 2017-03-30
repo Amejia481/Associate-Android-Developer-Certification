@@ -60,6 +60,10 @@ All the info and material about the certification that I've collected so far.
 - Create a custom view class and add it to a layout
   - [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
 - Implement a custom application theme
+  - [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
+  - [[CodePath* Page] Developing Custom Theme](https://guides.codepath.com/android/Developing-Custom-Themes)
+  - [[Android Studio Page] Design App Themes with Theme Editor](https://developer.android.com/studio/write/theme-editor.html)
+  - [[Udacity Course] Developing Android Apps Lesson: Polishing the UI - Styles and Themes](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - Apply a custom style to a group of common widgets
   - [Android Developers docs about Widget][android_developers_about_widget]
   - [TreeHouse Widgets Workshop][treehouse_widget_workshop]
@@ -82,7 +86,10 @@ All the info and material about the certification that I've collected so far.
   - [[Android Developer Page] Supporting Different Languages and Cultures](https://developer.android.com/training/basics/supporting-devices/languages.html)
   - [[Treehouse Course] Localization in Android](https://teamtreehouse.com/library/localization-in-android)
 - Apply content descriptions to views for accessibility
-- Add accessibility hooks to a custom view
+   - [[Android Developer Site] Accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
+   - [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
+ - Add accessibility hooks to a custom view
+    - [[Android Developer Site] Accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
 
 #### Fundamental Application Components
 - Describe an application's key functional and nonfunctional requirements
