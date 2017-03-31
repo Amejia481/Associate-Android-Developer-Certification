@@ -139,8 +139,9 @@ All the info and material about the certification that I've collected so far.
 - Read and parse raw resources or asset files
   - [[Team Treehouse] Android Data Persistence][db_treehouse_data_persistence]
 - Create persistent preference data from user input
+  - [[Udacity Course] Developing Android Apps Lesson: Preferences](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - Toggle application logic based on preference values
-
+  - [[Udacity Course] Developing Android Apps Lesson: Preferences](https://www.udacity.com/course/new-android-fundamentals--ud851)
 #### Enhanced System Integration
 - Create an app widget that displays on the device home screen
   - [[Android Developers docs] about Widget][android_developers_about_widget]
