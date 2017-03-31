@@ -45,6 +45,7 @@ All the info and material about the certification that I've collected so far.
   - [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
 - Use the system log to output debug information
      - [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
+     - [ [Udacity Developing Android Apps] Logging](https://youtu.be/i8CELIzOXCs)
 - Debug and fix an application crash (uncaught exception)
    - [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 - Debug and fix an activity lifecycle issue
@@ -56,6 +57,8 @@ All the info and material about the certification that I've collected so far.
 - Mock up the main screens and navigation flow of the application
   - [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
   - [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Polishing the UI](https://www.udacity.com/course/new-android-fundamentals--ud851)
+   - [[Code Labs Android] Using ConstraintLayout to design your views
+](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
   
 - Describe interactions between UI, background task, and data persistence
 - Construct a layout using XML or Java code
