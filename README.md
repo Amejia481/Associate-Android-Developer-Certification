@@ -11,6 +11,7 @@ All the info and material about the certification that I've collected so far.
 - [Associate Android Developer certification Specs][certification_specs]
 - [Udacity Course Developing Android Apps Covers the Certification Topics][developing_apps_udacity]
 - [Associate Android Developer Fast Track][fast_track]
+- [Android Developer Fundamentals](developer.google.com/training/adf)
 
 ### Certification topics
 
@@ -110,15 +111,15 @@ All the info and material about the certification that I've collected so far.
 >Understanding of Android's top-level application components ([Activity](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw5GZHEj4ZhR4cayR-ou6Hh), [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw), [Broadcast Receiver](https://www.youtube.com/playlist?list=PLWy8DQlwJkdwtBDTpP3tsjx0wXhR2shOq), [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)) and the lifecycle associated with each one. Candidates should be able to describe the types of application logic that would be best suited for each component, and whether that component is executing in the foreground or in the background. This includes strategies for determining how and when to execute background work.
 - Describe an application's key functional and nonfunctional requirements
 - Create an Activity that displays a layout resource
-- Fetch local data from disk using a Loader on a background thread
+- Fetch local data from disk using a [Loader](https://www.youtube.com/playlist?list=PLWy8DQlwJkdxBxNe9D9P12DtWWgNcGqGf) on a background thread
   - [[Udacity Course]  Data Storage Lesson 4: Loading Data Using CursorLoader][db_udacity]
-- Propagate data changes through a Loader to the UI
+- Propagate data changes through a [Loader](https://www.youtube.com/playlist?list=PLWy8DQlwJkdxBxNe9D9P12DtWWgNcGqGf) to the UI
   - [[Udacity Course]  Data Storage Lesson 4: Loading Data Using CursorLoader][db_udacity]
-- Schedule a time-sensitive task using alarms
+- [Schedule a time-sensitive task using alarms](https://github.com/firebase/firebase-jobdispatcher-android)
   - [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- Schedule a background task using JobScheduler
+- Schedule a background task using [JobScheduler](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw_gbIbmGs4wplosYZn3kAm)
   - [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- Execute a background task inside of a Service
+- Execute a background task inside of a [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw)
   - [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
   - [[Android Performance Patterns Season 4 ep6] Service Performance Patterns](https://www.youtube.com/watch?v=NJsq0TU0qeg)
   - [[Android Developer Page] Services](https://developer.android.com/guide/components/services.html)
@@ -130,7 +131,7 @@ All the info and material about the certification that I've collected so far.
 - Integrate code from an external support library
 
 #### Persistent Data Storage
->Determining appropriate use cases for local persisted data, and designing solutions to implement data storage using files, preferences, and databases. This includes implementing strategies for bundling static data with applications, caching data from remote sources, and managing user-generated private data. Candidates should also be able to describe platform features that allow applications to store data securely and share that data with other applications in a secure manner.
+>Determining appropriate use cases for local [persisted data](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzafwjoVUcx9283oIbJQvFC), and designing solutions to implement data storage using files, preferences, and databases. This includes implementing strategies for bundling static data with applications, caching data from remote sources, and managing user-generated private data. Candidates should also be able to describe platform features that allow applications to store data securely and share that data with other applications in a secure manner.
 
 - Define a database schema; include tables, fields, and indices
   - [[Android Developers Page]  Saving Data in SQL Databases][db_android_guide_database]
@@ -146,7 +147,7 @@ All the info and material about the certification that I've collected so far.
 - Update or delete existing items in a database
   - [[Android Developers Page]  Update a Database][db_android_guide_database_update]
   - [[Android Developers Page]  Delete Information from a Database][db_android_guide_database_delete]
-- Expose a database to other applications via Content Provider
+- Expose a database to other applications via [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)
   - [[Udacity Course] How to Use a Content Provider][persistent_data_storage_udacity_how_to_use_content_provider]
   - [[Udacity Course]  Data Storage Lesson 3: Introduction To Content Providers][db_udacity]
 - Read and parse raw resources or asset files
