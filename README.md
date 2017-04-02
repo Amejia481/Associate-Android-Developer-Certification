@@ -19,6 +19,8 @@ All the info and material about the certification that I've collected so far.
 
 
 #### Testing and Debugging
+>Writing tests to verify that the application's logic and user interface are performing as expected, and executing those tests using the developer tools. Candidates should be able to analyze application crashes, and find common bugs such as layout errors and memory leaks. This includes working with the debuggers to step through application code and verify expected behavior.
+
 - Write and execute a local JVM unit test
   - Getting Started with Testing
     - [Android Developer Training][testing_and_debuggin_getting_started_testing]
@@ -54,6 +56,8 @@ All the info and material about the certification that I've collected so far.
     - [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 
 #### Application User Interface (UI) and User Experience (UX)
+>Implementation of the visual and navigational components of an application's design. This includes constructing layouts–using both XML and Java code–that consist of the standard framework UI elements as well as custom views. Candidates should have a working knowledge of using view styles and theme attributes to apply a consistent look and feel across an entire application. Understanding of how to include features that expand the application's audience through accessibility and localization may also be required.
+
 - Mock up the main screens and navigation flow of the application
   - [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
   - [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Polishing the UI](https://www.udacity.com/course/new-android-fundamentals--ud851)
@@ -92,14 +96,18 @@ All the info and material about the certification that I've collected so far.
 - Localize the application's UI text into one other language
   - [[Android Developer Page] Localizing with Resources](https://developer.android.com/guide/topics/resources/localization.html)
   - [[Android Developer Page] Supporting Different Languages and Cultures](https://developer.android.com/training/basics/supporting-devices/languages.html)
-  - [[Treehouse Course] Localization in Android](https://teamtreehouse.com/library/localization-in-android)
+   - [[Treehouse Course] Localization in Android](https://teamtreehouse.com/library/localization-in-android)
+    - [[Android Developer Page] Localization checklist](https://developer.android.com/distribute/best-practices/launch/localization-checklist.html)
+  - [[Android Developer Page] NumberFormat](https://developer.android.com/reference/java/text/NumberFormat.html)
+  - [[Android Developer Page] DateFormat](https://developer.android.com/reference/java/text/DateFormat.html)
 - Apply content descriptions to views for accessibility
-   - [[Android Developer Site] Accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
+   - [[Android Developer Page] Accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
    - [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
  - Add accessibility hooks to a custom view
-    - [[Android Developer Site] Accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
+    - [[Android Developer Page] Building Accessible Custom Views](https://developer.android.com/guide/topics/ui/accessibility/custom-views.html)
 
 #### Fundamental Application Components
+>Understanding of Android's top-level application components ([Activity](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw5GZHEj4ZhR4cayR-ou6Hh), [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw), [Broadcast Receiver](https://www.youtube.com/playlist?list=PLWy8DQlwJkdwtBDTpP3tsjx0wXhR2shOq), [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)) and the lifecycle associated with each one. Candidates should be able to describe the types of application logic that would be best suited for each component, and whether that component is executing in the foreground or in the background. This includes strategies for determining how and when to execute background work.
 - Describe an application's key functional and nonfunctional requirements
 - Create an Activity that displays a layout resource
 - Fetch local data from disk using a Loader on a background thread
@@ -112,6 +120,9 @@ All the info and material about the certification that I've collected so far.
   - [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - Execute a background task inside of a Service
   - [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
+  - [[Android Performance Patterns Season 4 ep6] Service Performance Patterns](https://www.youtube.com/watch?v=NJsq0TU0qeg)
+  - [[Android Developer Page] Services](https://developer.android.com/guide/components/services.html)
+  - [[Android Developer Page] Creating a Background Service](https://developer.android.com/training/run-background-service/create-service.html)
 - Implement non-standard task stack navigation (deep links)
    -  [[Android Developer Page] Enabling Deep Links for Apps content](https://developer.android.com/training/app-indexing/deep-linking.html)
    -  [[Team Treehouse Course] Deep Links](https://teamtreehouse.com/library/deep-links)
@@ -119,6 +130,8 @@ All the info and material about the certification that I've collected so far.
 - Integrate code from an external support library
 
 #### Persistent Data Storage
+>Determining appropriate use cases for local persisted data, and designing solutions to implement data storage using files, preferences, and databases. This includes implementing strategies for bundling static data with applications, caching data from remote sources, and managing user-generated private data. Candidates should also be able to describe platform features that allow applications to store data securely and share that data with other applications in a secure manner.
+
 - Define a database schema; include tables, fields, and indices
   - [[Android Developers Page]  Saving Data in SQL Databases][db_android_guide_database]
   - [[Udacity Course]  Data Storage][db_udacity]
@@ -143,6 +156,8 @@ All the info and material about the certification that I've collected so far.
 - Toggle application logic based on preference values
   - [[Udacity Course] Developing Android Apps Lesson: Preferences](https://www.udacity.com/course/new-android-fundamentals--ud851)
 #### Enhanced System Integration
+>Extending applications to integrate with interfaces outside the core application experience through notifications and app widgets. This includes displaying information to the user through these elements and keeping that information up to date. Candidates should also understand how to provide proper navigation from these external interfaces into the application's main task, including appropriate handling of deep links.
+
 - Create an app widget that displays on the device home screen
   - [[Android Developers docs] about Widget][android_developers_about_widget]
   - [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
