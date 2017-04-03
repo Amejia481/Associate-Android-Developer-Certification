@@ -11,7 +11,7 @@ All the info and material about the certification that I've collected so far.
 - [Associate Android Developer certification Specs][certification_specs]
 - [Udacity Course Developing Android Apps Covers the Certification Topics][developing_apps_udacity]
 - [Associate Android Developer Fast Track][fast_track]
-- [Android Developer Fundamentals](developer.google.com/training/adf)
+- [Android Developer Fundamentals](https://developers.google.com/training/courses/android-fundamentals)
 
 ### Certification topics
 
