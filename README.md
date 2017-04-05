@@ -23,6 +23,7 @@ All the info and material about the certification that I've collected so far.
 >Writing tests to verify that the application's logic and user interface are performing as expected, and executing those tests using the developer tools. Candidates should be able to analyze application crashes, and find common bugs such as layout errors and memory leaks. This includes working with the debuggers to step through application code and verify expected behavior.
 
 - Write and execute a local JVM unit test
+  - [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
   - Getting Started with Testing
     - [Android Developer Training][testing_and_debuggin_getting_started_testing]
     - [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
@@ -36,6 +37,7 @@ All the info and material about the certification that I've collected so far.
   - [Intro to testing part 2, @riggaroo][testing_and_debugging_intro_testing_reggaroo_1]
   - [Intro to testing part 3, @riggaroo][testing_and_debugging_intro_testing_reggaroo_3]
 - Write and execute a device UI test
+  - [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
   - [Automating User Interface Tests][testing_debuggin_ui_testing]
   - [Espresso][testing_and_debuggin_espresso]
   - [UI Automator][testing_and_debuggin_ui_automator]
