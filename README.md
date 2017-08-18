@@ -4,7 +4,7 @@ All the info and material about the certification that I've collected so far.
 **Pull Request are welcome!**
 
 ### Video Intro
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/JoJbQHCvyw0/0.jpg)](https://youtu.be/JoJbQHCvyw0 "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/GY5Olv1_dB4/0.jpg)](https://youtu.be/GY5Olv1_dB4 "Video Title")
 
 ### General information
 - [Announcement on Google I/O 2016][google_io_announcement]
