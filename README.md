@@ -31,7 +31,7 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
     - [ ] [Android Developer Training][testing_and_debuggin_getting_started_testing]
     - [ ] [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
     - [ ] [Treehouse Testing in Android Course][treehouse_testing_course]
-  - [ ] [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
+  - [x] [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
   - [ ] [Play List Android Testing Patterns][testing_debuggin_play_list_android_testing_patterns]
   - [ ] [Android Testing Codelab][testing_and_debugging_testing_codelab]
   - [ ] [Android Testing Samples][testing_and_debugging_android_test_samples]
