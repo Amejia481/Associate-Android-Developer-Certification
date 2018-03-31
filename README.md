@@ -23,76 +23,76 @@ All the info and material about the certification that I've collected so far.
 >Writing tests to verify that the application's logic and user interface are performing as expected, and executing those tests using the developer tools. Candidates should be able to analyze application crashes, and find common bugs such as layout errors and memory leaks. This includes working with the debuggers to step through application code and verify expected behavior.
 
 - Write and execute a local JVM unit test
-  - [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
-  - Getting Started with Testing
-    - [Android Developer Training][testing_and_debuggin_getting_started_testing]
-    - [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
-    - [Treehouse Testing in Android Course][treehouse_testing_course]
-  - [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
-  - [Play List Android Testing Patterns][testing_debuggin_play_list_android_testing_patterns]
-  - [Android Testing Codelab][testing_and_debugging_testing_codelab]
-  - [Android Testing Samples][testing_and_debugging_android_test_samples]
-  - [Android Testing Blueprint][testing_and_debugging_android_testing_blue_print]
-  - [Intro to testing part 1, @riggaroo][testing_and_debugging_intro_testing_reggaroo]
-  - [Intro to testing part 2, @riggaroo][testing_and_debugging_intro_testing_reggaroo_1]
-  - [Intro to testing part 3, @riggaroo][testing_and_debugging_intro_testing_reggaroo_3]
+  - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/ 
+  - [ ] Getting Started with Testing 
+    - [ ] [Android Developer Training][testing_and_debuggin_getting_started_testing]
+    - [ ] [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
+    - [ ] [Treehouse Testing in Android Course][treehouse_testing_course]
+  - [ ] [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
+  - [ ] [Play List Android Testing Patterns][testing_debuggin_play_list_android_testing_patterns]
+  - [ ] [Android Testing Codelab][testing_and_debugging_testing_codelab]
+  - [ ] [Android Testing Samples][testing_and_debugging_android_test_samples]
+  - [ ] [Android Testing Blueprint][testing_and_debugging_android_testing_blue_print]
+  - [ ] [Intro to testing part 1, @riggaroo][testing_and_debugging_intro_testing_reggaroo]
+  - [ ] [Intro to testing part 2, @riggaroo][testing_and_debugging_intro_testing_reggaroo_1]
+  - [ ] [Intro to testing part 3, @riggaroo][testing_and_debugging_intro_testing_reggaroo_3]
 - Write and execute a device UI test
-  - [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
-  - [Automating User Interface Tests][testing_debuggin_ui_testing]
-  - [Espresso][testing_and_debuggin_espresso]
-  - [UI Automator][testing_and_debuggin_ui_automator]
-  - [Advanced Espresso Google I/O 2016][testing_and_debugging_google_io]
-  - [Advanced Android Espresso (Big Android BBQ 2016)][testing_and_debugging_advanced_android_espresso_bbq]
-  - [Espresso cheat sheet][testing_and_debugging_espresso_cheat_sheet]
-  - [Espresso Serie Caster][testing_and_debugging_espresso_serie_caster]
+  - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
+  - [ ] [Automating User Interface Tests][testing_debuggin_ui_testing]
+  - [ ] [Espresso][testing_and_debuggin_espresso]
+  - [ ] [UI Automator][testing_and_debuggin_ui_automator]
+  - [ ] [Advanced Espresso Google I/O 2016][testing_and_debugging_google_io]
+  - [ ] [Advanced Android Espresso (Big Android BBQ 2016)][testing_and_debugging_advanced_android_espresso_bbq]
+  - [ ] [Espresso cheat sheet][testing_and_debugging_espresso_cheat_sheet]
+  - [ ] [Espresso Serie Caster][testing_and_debugging_espresso_serie_caster]
 
 - Given a problem description, replicate the failure
-  - [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
-- Use the system log to output debug information
-     - [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
-     - [ [Udacity Developing Android Apps] Logging](https://youtu.be/i8CELIzOXCs)
-- Debug and fix an application crash (uncaught exception)
-   - [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
-- Debug and fix an activity lifecycle issue
-   - [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
-- Debug and fix an issue binding data to views
-    - [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
+  - [ ] [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
+- [ ] Use the system log to output debug information
+     - [ ] [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
+     - [ ] [ [Udacity Developing Android Apps] Logging](https://youtu.be/i8CELIzOXCs)
+- [ ] Debug and fix an application crash (uncaught exception)
+   - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
+- [ ] Debug and fix an activity lifecycle issue
+   - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
+- [ ] Debug and fix an issue binding data to views
+    - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 
 #### Application User Interface (UI) and User Experience (UX)
 >Implementation of the visual and navigational components of an application's design. This includes constructing layouts–using both XML and Java code–that consist of the standard framework UI elements as well as custom views. Candidates should have a working knowledge of using view styles and theme attributes to apply a consistent look and feel across an entire application. Understanding of how to include features that expand the application's audience through accessibility and localization may also be required.
 
-- Mock up the main screens and navigation flow of the application
-  - [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
-  - [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Polishing the UI](https://www.udacity.com/course/new-android-fundamentals--ud851)
-   - [[Code Labs Android] Using ConstraintLayout to design your views
+- [ ] Mock up the main screens and navigation flow of the application
+  - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
+  - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Polishing the UI](https://www.udacity.com/course/new-android-fundamentals--ud851)
+   - [ ] [[Code Labs Android] Using ConstraintLayout to design your views
 ](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
   
-- Describe interactions between UI, background task, and data persistence
-- Construct a layout using XML or Java code
-  - [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
-- Create a custom view class and add it to a layout
-  - [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
-- Implement a custom application theme
-  - [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
-  - [[CodePath* Page] Developing Custom Theme](https://guides.codepath.com/android/Developing-Custom-Themes)
-  - [[Android Studio Page] Design App Themes with Theme Editor](https://developer.android.com/studio/write/theme-editor.html)
-  - [[Udacity Course] Developing Android Apps Lesson: Polishing the UI - Styles and Themes](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- Apply a custom style to a group of common widgets
-  - [Android Developers docs about Widget][android_developers_about_widget]
-  - [TreeHouse Widgets Workshop][treehouse_widget_workshop]
-- Define a RecyclerView item list
-  - [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
-  - [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
-  - [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
-  - [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- Bind local data to a RecyclerView list
-  - [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
-  - [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
-  - [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
-  - [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- Implement menu-based or drawer navigation
-  - [[Android Developers Page] Creating a Navigation Drawer][ui_ux_android_page_creating_drawer]
-  - [[Android Developers Blog] Android Design Support Library Navigation View][ui_ux_android_developer_blog_navigation_view]
+- [ ] Describe interactions between UI, background task, and data persistence
+- [ ] Construct a layout using XML or Java code
+  - [ ] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
+- [ ] Create a custom view class and add it to a layout
+  - [ ] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
+- [ ] Implement a custom application theme
+  - [ ] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
+  - [ ] [[CodePath* Page] Developing Custom Theme](https://guides.codepath.com/android/Developing-Custom-Themes)
+  - [ ] [[Android Studio Page] Design App Themes with Theme Editor](https://developer.android.com/studio/write/theme-editor.html)
+  - [ ] [[Udacity Course] Developing Android Apps Lesson: Polishing the UI - Styles and Themes](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [ ] Apply a custom style to a group of common widgets
+  - [ ] [Android Developers docs about Widget][android_developers_about_widget]
+  - [ ] [TreeHouse Widgets Workshop][treehouse_widget_workshop]
+- [ ] Define a RecyclerView item list
+  - [ ] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
+  - [ ] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
+  - [ ] [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
+  - [ ] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [ ] Bind local data to a RecyclerView list
+  - [ ] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
+  - [ ] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
+  - [ ] [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
+  - [ ] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [ ] Implement menu-based or drawer navigation
+  - [ ] [[Android Developers Page] Creating a Navigation Drawer][ui_ux_android_page_creating_drawer]
+  - [ ] [[Android Developers Blog] Android Design Support Library Navigation View][ui_ux_android_developer_blog_navigation_view]
   - [[Team Treehouse Blog] How to Add a Navigation Drawer in Android][ui_ux_team_treehouse_blog_navigation_drawer]
   - [[Antonio Leiva Blog] Design Support Library (I): Navigation View][ui_ux_navigation_view]
   - [[Android Development Patterns] Episode 8 Navigation Drawer, DrawerLayout, and NavigationView](https://www.youtube.com/watch?v=DkT0vS14Um0&feature=youtu.be&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
