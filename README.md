@@ -31,8 +31,8 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
     - [ ] [Android Developer Training][testing_and_debuggin_getting_started_testing]
     - [ ] [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
     - [ ] [Treehouse Testing in Android Course][treehouse_testing_course]
-  - [x] [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
-  - [x] [Play List Android Testing Patterns][testing_debuggin_play_list_android_testing_patterns]
+  - [ ] [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
+  - [ ] [Play List Android Testing Patterns][testing_debuggin_play_list_android_testing_patterns]
   - [ ] [Android Testing Codelab][testing_and_debugging_testing_codelab]
   - [ ] [Android Testing Samples][testing_and_debugging_android_test_samples]
   - [ ] [Android Testing Blueprint][testing_and_debugging_android_testing_blue_print]
@@ -138,40 +138,40 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
 #### Persistent Data Storage
 >Determining appropriate use cases for local [persisted data](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzafwjoVUcx9283oIbJQvFC), and designing solutions to implement data storage using files, preferences, and databases. This includes implementing strategies for bundling static data with applications, caching data from remote sources, and managing user-generated private data. Candidates should also be able to describe platform features that allow applications to store data securely and share that data with other applications in a secure manner.
 
-- [x] Define a database schema; include tables, fields, and indices
+- [ ] Define a database schema; include tables, fields, and indices
   - [ ] [[Android Developers Page]  Saving Data in SQL Databases][db_android_guide_database]
   - [ ] [[Udacity Course]  Data Storage][db_udacity]
   - [ ] [[Team Treehouse] Android Data Persistence][db_treehouse_data_persistence]
-- [x] Create an application-private database file
-- [x] Construct database queries returning single results
+- [ ] Create an application-private database file
+- [ ] Construct database queries returning single results
   - [ ] [[Android Developers Page] Read Information from a Database][db_android_guide_database_read]
-- [x] Construct database queries returning multiple results
+- [ ] Construct database queries returning multiple results
   - [ ] [[Android Developers Page]  Read Information from a Database][db_android_guide_database_read]
-- [x] Insert new items into a database
+- [ ] Insert new items into a database
   - [ ] [[Android Developers Page]  Put Information into a Database][db_android_guide_database_write]
-- [x] Update or delete existing items in a database
+- [ ] Update or delete existing items in a database
   - [ ] [[Android Developers Page]  Update a Database][db_android_guide_database_update]
   - [ ] [[Android Developers Page]  Delete Information from a Database][db_android_guide_database_delete]
 - [ ] xpose a database to other applications via [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)
   - [ ] [[Udacity Course] How to Use a Content Provider][persistent_data_storage_udacity_how_to_use_content_provider]
   - [ ] [[Udacity Course]  Data Storage Lesson 3: Introduction To Content Providers][db_udacity]
-- [x] Read and parse raw resources or asset files
+- [ ] Read and parse raw resources or asset files
   - [ ] [[Team Treehouse] Android Data Persistence][db_treehouse_data_persistence]
-- [x] Create persistent preference data from user input
+- [ ] Create persistent preference data from user input
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Preferences](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- [x] Toggle application logic based on preference values
+- [ ] Toggle application logic based on preference values
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Preferences](https://www.udacity.com/course/new-android-fundamentals--ud851)
 #### Enhanced System Integration
 >Extending applications to integrate with interfaces outside the core application experience through notifications and app widgets. This includes displaying information to the user through these elements and keeping that information up to date. Candidates should also understand how to provide proper navigation from these external interfaces into the application's main task, including appropriate handling of deep links.
 
-- [x] Create an app widget that displays on the device home screen
+- [ ] Create an app widget that displays on the device home screen
   - [ ] [[Android Developers docs] about Widget][android_developers_about_widget]
   - [ ] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
   - [ ] [[Android Development Patterns] Episode 2 Your app, their home screen: Widgets](https://www.youtube.com/watch?v=crsmPedDyoU)
 - [ ] Implement a task to update the app widget periodically
   - [ ] [[Android Developers Page] Widget][android_developers_about_widget]
   - [ ] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
-- [x] Create and display a notification to the user
+- [ ] Create and display a notification to the user
   - [ ] [[Android Developer Page] Building a Notification](https://developer.android.com/training/notify-user/build-notification.html)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
