@@ -64,15 +64,15 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
 #### Application User Interface (UI) and User Experience (UX)
 >Implementation of the visual and navigational components of an application's design. This includes constructing layouts–using both XML and Java code–that consist of the standard framework UI elements as well as custom views. Candidates should have a working knowledge of using view styles and theme attributes to apply a consistent look and feel across an entire application. Understanding of how to include features that expand the application's audience through accessibility and localization may also be required.
 
-- [x] Mock up the main screens and navigation flow of the application
+- [ ] Mock up the main screens and navigation flow of the application
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Polishing the UI](https://www.udacity.com/course/new-android-fundamentals--ud851)
-   - [x] [[Code Labs Android] Using ConstraintLayout to design your views
+   - [ ] [[Code Labs Android] Using ConstraintLayout to design your views
 ](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
   
 - [ ] Describe interactions between UI, background task, and data persistence
-- [x] Construct a layout using XML or Java code
-  - [x] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
+- [ ] Construct a layout using XML or Java code
+  - [ ] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
 - [ ] Create a custom view class and add it to a layout
   - [ ] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
 - [ ] Implement a custom application theme
