@@ -3,7 +3,6 @@ All the info and material about the certification that I've collected so far.
 
 #### Checkboxes
 Feel free to make a fork and fill out the checkboxes as you go! A checkbox in the editor will look like "[ ]". You just need to put an x instead of a space to check it off, like "[x]"! 
-
 **Pull Requests are welcome!**
 
 ### Video Intro
@@ -26,7 +25,7 @@ Feel free to make a fork and fill out the checkboxes as you go! A checkbox in th
 >Writing tests to verify that the application's logic and user interface are performing as expected, and executing those tests using the developer tools. Candidates should be able to analyze application crashes, and find common bugs such as layout errors and memory leaks. This includes working with the debuggers to step through application code and verify expected behavior.
 
 - Write and execute a local JVM unit test
-  - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/ 
+  - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/) 
   - [ ] Getting Started with Testing 
     - [ ] [Android Developer Training][testing_and_debuggin_getting_started_testing]
     - [ ] [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
