@@ -1,14 +1,14 @@
 # Associate Android Developer Certification
 All the info and material about the certification that I've collected so far.
 
+**Pull Requests are welcome!**
+
 #### Checkboxes
 Feel free to make a fork and fill out the checkboxes as you go! 
 
 A checkbox in the editor will look like "[ ]". You just need to put an x instead of a space to check it off, like "[x]"! 
 
 Thanks to [Daita](https://github.com/vdaita) for this contribution.
-
-**Pull Requests are welcome!**
 
 ### Video Intro
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GY5Olv1_dB4/0.jpg)](https://youtu.be/GY5Olv1_dB4 "Video Title")
@@ -156,7 +156,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] Update or delete existing items in a database
   - [ ] [[Android Developers Page]  Update a Database][db_android_guide_database_update]
   - [ ] [[Android Developers Page]  Delete Information from a Database][db_android_guide_database_delete]
-- [ ] xpose a database to other applications via [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)
+- [ ] Expose a database to other applications via [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)
   - [ ] [[Udacity Course] How to Use a Content Provider][persistent_data_storage_udacity_how_to_use_content_provider]
   - [ ] [[Udacity Course]  Data Storage Lesson 3: Introduction To Content Providers][db_udacity]
 - [ ] Read and parse raw resources or asset files
