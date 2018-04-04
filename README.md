@@ -2,7 +2,12 @@
 All the info and material about the certification that I've collected so far.
 
 #### Checkboxes
-Feel free to make a fork and fill out the checkboxes as you go! A checkbox in the editor will look like "[ ]". You just need to put an x instead of a space to check it off, like "[x]"! 
+Feel free to make a fork and fill out the checkboxes as you go! 
+
+A checkbox in the editor will look like "[ ]". You just need to put an x instead of a space to check it off, like "[x]"! 
+
+Thanks to [Daita](https://github.com/vdaita) for this contribution.
+
 **Pull Requests are welcome!**
 
 ### Video Intro
