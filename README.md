@@ -85,8 +85,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [[Android Studio Page] Design App Themes with Theme Editor](https://developer.android.com/studio/write/theme-editor.html)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Polishing the UI - Styles and Themes](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Apply a custom style to a group of common widgets
-  - [ ] [Android Developers docs about Widget][android_developers_about_widget]
-  - [ ] [TreeHouse Widgets Workshop][treehouse_widget_workshop]
+  - [ ] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
+  
 - [ ] Define a RecyclerView item list
   - [ ] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
   - [ ] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
