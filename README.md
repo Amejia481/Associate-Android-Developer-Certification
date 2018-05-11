@@ -120,10 +120,6 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 >Understanding of Android's top-level application components ([Activity](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw5GZHEj4ZhR4cayR-ou6Hh), [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw), [Broadcast Receiver](https://www.youtube.com/playlist?list=PLWy8DQlwJkdwtBDTpP3tsjx0wXhR2shOq), [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)) and the lifecycle associated with each one. Candidates should be able to describe the types of application logic that would be best suited for each component, and whether that component is executing in the foreground or in the background. This includes strategies for determining how and when to execute background work.
 - [ ] Describe an application's key functional and nonfunctional requirements
 - [ ] Create an Activity that displays a layout resource
-- [ ] Fetch local data from disk using a [Loader](https://www.youtube.com/playlist?list=PLWy8DQlwJkdxBxNe9D9P12DtWWgNcGqGf) on a background thread
-  - [ ] [[Udacity Course]  Data Storage Lesson 4: Loading Data Using CursorLoader][db_udacity]
-- [ ] Propagate data changes through a [Loader](https://www.youtube.com/playlist?list=PLWy8DQlwJkdxBxNe9D9P12DtWWgNcGqGf) to the UI
-  - [ ] [[Udacity Course]  Data Storage Lesson 4: Loading Data Using CursorLoader][db_udacity]
 - [ ] [Schedule a time-sensitive task using alarms](https://github.com/firebase/firebase-jobdispatcher-android)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Schedule a background task using [JobScheduler](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw_gbIbmGs4wplosYZn3kAm)
