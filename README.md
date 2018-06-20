@@ -71,7 +71,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] Mock up the main screens and navigation flow of the application
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Polishing the UI](https://www.udacity.com/course/new-android-fundamentals--ud851)
-   - [ ] [[Code Labs Android] Using ConstraintLayout to design your views
+   - [x] [[Code Labs Android] Using ConstraintLayout to design your views
 ](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
   
 - [ ] Describe interactions between UI, background task, and data persistence
