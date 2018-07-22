@@ -29,7 +29,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 #### Testing and Debugging
 >Writing tests to verify that the application's logic and user interface are performing as expected, and executing those tests using the developer tools. Candidates should be able to analyze application crashes, and find common bugs such as layout errors and memory leaks. This includes working with the debuggers to step through application code and verify expected behavior.
 
-- Write and execute a local JVM unit test
+- [ ] Write and execute a local JVM unit test
   - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/) 
   - [ ] Getting Started with Testing 
     - [ ] [Android Developer Training][testing_and_debuggin_getting_started_testing]
@@ -43,7 +43,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [Intro to testing part 1, @riggaroo][testing_and_debugging_intro_testing_reggaroo]
   - [ ] [Intro to testing part 2, @riggaroo][testing_and_debugging_intro_testing_reggaroo_1]
   - [ ] [Intro to testing part 3, @riggaroo][testing_and_debugging_intro_testing_reggaroo_3]
-- Write and execute a device UI test
+- [ ] Write and execute a device UI test
   - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
   - [ ] [Automating User Interface Tests][testing_debuggin_ui_testing]
   - [ ] [Espresso][testing_and_debuggin_espresso]
@@ -54,7 +54,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [Espresso Serie Caster][testing_and_debugging_espresso_serie_caster]
   - [ ] [[Udacity Course] Advanced Android App Development Lesson: Espresso](https://www.udacity.com/course/advanced-android-app-development--ud855)
 
-- Given a problem description, replicate the failure
+- [ ] Given a problem description, replicate the failure
   - [ ] [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
 - [ ] Use the system log to output debug information
      - [ ] [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
@@ -114,7 +114,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] Apply content descriptions to views for accessibility
    - [ ]  [[Android Developer Page] Accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
    - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
- - Add accessibility hooks to a custom view
+- [ ] Add accessibility hooks to a custom view
     - [ ] [[Android Developer Page] Building Accessible Custom Views](https://developer.android.com/guide/topics/ui/accessibility/custom-views.html)
 
 #### Fundamental Application Components
