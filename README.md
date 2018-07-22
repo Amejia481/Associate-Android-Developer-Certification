@@ -134,7 +134,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
    -  [ ] [[Android Developer Page] Enabling Deep Links for Apps content](https://developer.android.com/training/app-indexing/deep-linking.html)
    -  [ ] [[Team Treehouse Course] Deep Links](https://teamtreehouse.com/library/deep-links)
    -  [ ] [[Jayway Blog] The Browseable Category](https://blog.jayway.com/2009/09/24/the-browsable-category-revealed/)
-- Integrate code from an external support library
+- [ ] Integrate code from an external support library
+  - [ ] [[Udacity Course] Advanced Android App Development Lesson: Libraries](https://www.udacity.com/course/advanced-android-app-development--ud855)
 
 #### Persistent Data Storage
 >Determining appropriate use cases for local [persisted data](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzafwjoVUcx9283oIbJQvFC), and designing solutions to implement data storage using files, preferences, and databases. This includes implementing strategies for bundling static data with applications, caching data from remote sources, and managing user-generated private data. Candidates should also be able to describe platform features that allow applications to store data securely and share that data with other applications in a secure manner.
