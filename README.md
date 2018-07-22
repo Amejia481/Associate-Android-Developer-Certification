@@ -104,6 +104,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [[Team Treehouse Blog] How to Add a Navigation Drawer in Android][ui_ux_team_treehouse_blog_navigation_drawer]
   - [ ] [[Antonio Leiva Blog] Design Support Library (I): Navigation View][ui_ux_navigation_view]
   - [ ] [[Android Development Patterns] Episode 8 Navigation Drawer, DrawerLayout, and NavigationView](https://www.youtube.com/watch?v=DkT0vS14Um0&feature=youtu.be&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
+  - [ ] [[Udacity Course] Advanced Android App Development Lesson: Fragments](https://www.udacity.com/course/advanced-android-app-development--ud855)
+  - [ ] [[Android Developer Page] Fragments](https://developer.android.com/guide/components/fragments.html) 
 - [ ] Localize the application's UI text into one other language
   - [ ] [[Android Developer Page] Localizing with Resources](https://developer.android.com/guide/topics/resources/localization.html)
   - [ ] [[Android Developer Page] Supporting Different Languages and Cultures](https://developer.android.com/training/basics/supporting-devices/languages.html)
