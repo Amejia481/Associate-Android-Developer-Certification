@@ -52,6 +52,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [Advanced Android Espresso (Big Android BBQ 2016)][testing_and_debugging_advanced_android_espresso_bbq]
   - [ ] [Espresso cheat sheet][testing_and_debugging_espresso_cheat_sheet]
   - [ ] [Espresso Serie Caster][testing_and_debugging_espresso_serie_caster]
+  - [ ] [[Udacity Course] Advanced Android App Development Lesson: Espresso](https://www.udacity.com/course/advanced-android-app-development--ud855)
 
 - Given a problem description, replicate the failure
   - [ ] [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
@@ -167,10 +168,12 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] Create an app widget that displays on the device home screen
   - [ ] [[Android Developers docs] about Widget][android_developers_about_widget]
   - [ ] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
+  - [ ] [[Udacity Course] Advanced Android App Development Lesson: Widgets](https://www.udacity.com/course/advanced-android-app-development--ud855)
   - [ ] [[Android Development Patterns] Episode 2 Your app, their home screen: Widgets](https://www.youtube.com/watch?v=crsmPedDyoU)
 - [ ] Implement a task to update the app widget periodically
   - [ ] [[Android Developers Page] Widget][android_developers_about_widget]
   - [ ] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
+  - [ ] [[Udacity Course] Advanced Android App Development Lesson: Widgets](https://www.udacity.com/course/advanced-android-app-development--ud855)
 - [ ] Create and display a notification to the user
   - [ ] [[Android Developer Page] Building a Notification](https://developer.android.com/training/notify-user/build-notification.html)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
