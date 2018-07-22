@@ -127,7 +127,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Execute a background task inside of a [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
-  - [ ] [Android Performance Patterns Season 4 ep6] Service Performance Patterns](https://www.youtube.com/watch?v=NJsq0TU0qeg)
+  - [ ] [[Android Performance Patterns] Season 4 Episode 6 Service Performance Patterns](https://www.youtube.com/watch?v=NJsq0TU0qeg)
   - [ ] [[Android Developer Page] Services](https://developer.android.com/guide/components/services.html)
   - [ ] [[Android Developer Page] Creating a Background Service](https://developer.android.com/training/run-background-service/create-service.html)
 - [ ] Implement non-standard task stack navigation (deep links)
@@ -170,7 +170,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [[Android Developers docs] about Widget][android_developers_about_widget]
   - [ ] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
   - [ ] [[Udacity Course] Advanced Android App Development Lesson: Widgets](https://www.udacity.com/course/advanced-android-app-development--ud855)
-  - [ ] [[Android Development Patterns] Episode 2 Your app, their home screen: Widgets](https://www.youtube.com/watch?v=crsmPedDyoU)
+  - [ ] [[Android Development Patterns] Season 2 Episode 2 Your app, their home screen: Widgets](https://www.youtube.com/watch?v=crsmPedDyoU)
 - [ ] Implement a task to update the app widget periodically
   - [ ] [[Android Developers Page] Widget][android_developers_about_widget]
   - [ ] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
