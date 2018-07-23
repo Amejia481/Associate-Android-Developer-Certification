@@ -29,7 +29,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 #### Testing and Debugging
 >Writing tests to verify that the application's logic and user interface are performing as expected, and executing those tests using the developer tools. Candidates should be able to analyze application crashes, and find common bugs such as layout errors and memory leaks. This includes working with the debuggers to step through application code and verify expected behavior.
 
-- Write and execute a local JVM unit test
+- [ ] Write and execute a local JVM unit test
   - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/) 
   - [ ] Getting Started with Testing 
     - [ ] [Android Developer Training][testing_and_debuggin_getting_started_testing]
@@ -43,7 +43,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [Intro to testing part 1, @riggaroo][testing_and_debugging_intro_testing_reggaroo]
   - [ ] [Intro to testing part 2, @riggaroo][testing_and_debugging_intro_testing_reggaroo_1]
   - [ ] [Intro to testing part 3, @riggaroo][testing_and_debugging_intro_testing_reggaroo_3]
-- Write and execute a device UI test
+- [ ] Write and execute a device UI test
   - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
   - [ ] [Automating User Interface Tests][testing_debuggin_ui_testing]
   - [ ] [Espresso][testing_and_debuggin_espresso]
@@ -52,8 +52,9 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [Advanced Android Espresso (Big Android BBQ 2016)][testing_and_debugging_advanced_android_espresso_bbq]
   - [ ] [Espresso cheat sheet][testing_and_debugging_espresso_cheat_sheet]
   - [ ] [Espresso Serie Caster][testing_and_debugging_espresso_serie_caster]
+  - [ ] [[Udacity Course] Advanced Android App Development Lesson: Espresso](https://www.udacity.com/course/advanced-android-app-development--ud855)
 
-- Given a problem description, replicate the failure
+- [ ] Given a problem description, replicate the failure
   - [ ] [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
 - [ ] Use the system log to output debug information
      - [ ] [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
@@ -103,6 +104,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [[Team Treehouse Blog] How to Add a Navigation Drawer in Android][ui_ux_team_treehouse_blog_navigation_drawer]
   - [ ] [[Antonio Leiva Blog] Design Support Library (I): Navigation View][ui_ux_navigation_view]
   - [ ] [[Android Development Patterns] Episode 8 Navigation Drawer, DrawerLayout, and NavigationView](https://www.youtube.com/watch?v=DkT0vS14Um0&feature=youtu.be&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
+  - [ ] [[Udacity Course] Advanced Android App Development Lesson: Fragments](https://www.udacity.com/course/advanced-android-app-development--ud855)
+  - [ ] [[Android Developer Page] Fragments](https://developer.android.com/guide/components/fragments.html) 
 - [ ] Localize the application's UI text into one other language
   - [ ] [[Android Developer Page] Localizing with Resources](https://developer.android.com/guide/topics/resources/localization.html)
   - [ ] [[Android Developer Page] Supporting Different Languages and Cultures](https://developer.android.com/training/basics/supporting-devices/languages.html)
@@ -113,7 +116,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] Apply content descriptions to views for accessibility
    - [ ]  [[Android Developer Page] Accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
    - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
- - Add accessibility hooks to a custom view
+- [ ] Add accessibility hooks to a custom view
     - [ ] [[Android Developer Page] Building Accessible Custom Views](https://developer.android.com/guide/topics/ui/accessibility/custom-views.html)
 
 #### Fundamental Application Components
@@ -126,14 +129,15 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Execute a background task inside of a [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
-  - [ ] [Android Performance Patterns Season 4 ep6] Service Performance Patterns](https://www.youtube.com/watch?v=NJsq0TU0qeg)
+  - [ ] [[Android Performance Patterns] Season 4 Episode 6 Service Performance Patterns](https://www.youtube.com/watch?v=NJsq0TU0qeg)
   - [ ] [[Android Developer Page] Services](https://developer.android.com/guide/components/services.html)
   - [ ] [[Android Developer Page] Creating a Background Service](https://developer.android.com/training/run-background-service/create-service.html)
 - [ ] Implement non-standard task stack navigation (deep links)
    -  [ ] [[Android Developer Page] Enabling Deep Links for Apps content](https://developer.android.com/training/app-indexing/deep-linking.html)
    -  [ ] [[Team Treehouse Course] Deep Links](https://teamtreehouse.com/library/deep-links)
    -  [ ] [[Jayway Blog] The Browseable Category](https://blog.jayway.com/2009/09/24/the-browsable-category-revealed/)
-- Integrate code from an external support library
+- [ ] Integrate code from an external support library
+  - [ ] [[Udacity Course] Advanced Android App Development Lesson: Libraries](https://www.udacity.com/course/advanced-android-app-development--ud855)
 
 #### Persistent Data Storage
 >Determining appropriate use cases for local [persisted data](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzafwjoVUcx9283oIbJQvFC), and designing solutions to implement data storage using files, preferences, and databases. This includes implementing strategies for bundling static data with applications, caching data from remote sources, and managing user-generated private data. Candidates should also be able to describe platform features that allow applications to store data securely and share that data with other applications in a secure manner.
@@ -167,10 +171,12 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] Create an app widget that displays on the device home screen
   - [ ] [[Android Developers docs] about Widget][android_developers_about_widget]
   - [ ] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
-  - [ ] [[Android Development Patterns] Episode 2 Your app, their home screen: Widgets](https://www.youtube.com/watch?v=crsmPedDyoU)
+  - [ ] [[Udacity Course] Advanced Android App Development Lesson: Widgets](https://www.udacity.com/course/advanced-android-app-development--ud855)
+  - [ ] [[Android Development Patterns] Season 2 Episode 2 Your app, their home screen: Widgets](https://www.youtube.com/watch?v=crsmPedDyoU)
 - [ ] Implement a task to update the app widget periodically
   - [ ] [[Android Developers Page] Widget][android_developers_about_widget]
   - [ ] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
+  - [ ] [[Udacity Course] Advanced Android App Development Lesson: Widgets](https://www.udacity.com/course/advanced-android-app-development--ud855)
 - [ ] Create and display a notification to the user
   - [ ] [[Android Developer Page] Building a Notification](https://developer.android.com/training/notify-user/build-notification.html)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
