@@ -240,7 +240,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 <!--(END Application User Interface (UI) and User Experience (UX))-->
 # Updated Materials
 <!-- Update the Contents under to the new one -->
-#### App Data and Files (Android Architecture Componets)
+#### App Data and Files (Android Architecture Components)
 >Android architecture components are part of Android Jetpack. They are a collection of libraries that help you design robust, testable, and maintainable apps. Start with classes for managing your UI component lifecycle and handling data persistence.
  - [Build an App with Architecture Components (GDD India '17)](https://www.youtube.com/watch?v=BofWWZE1wts)
 
