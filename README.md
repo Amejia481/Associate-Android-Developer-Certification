@@ -1,6 +1,10 @@
 # Associate Android Developer Certification
 All the info and material about the certification that I've collected so far.
 
+## Google has Updated their Courses and every other material below are very necessary to cover, the only new thing is Android Architecture Components.
+
+**Scrolldown to  the last page to see the Updated Materials**
+
 **Pull Requests are welcome!**
 
 #### Checkboxes
@@ -234,6 +238,46 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 [ui_ux_navigation_view]:<https://antonioleiva.com/navigation-view/>
 
 <!--(END Application User Interface (UI) and User Experience (UX))-->
+# Updated Materials
+<!-- Update the Contents under to the new one -->
+#### App Data and Files (Android Architecture Componets)
+>Android architecture components are part of Android Jetpack. They are a collection of libraries that help you design robust, testable, and maintainable apps. Start with classes for managing your UI component lifecycle and handling data persistence.
+ - [Build an App with Architecture Components (GDD India '17)](https://www.youtube.com/watch?v=BofWWZE1wts)
+
+- Manage your app's lifecycle with ease. New  [lifecycle-aware components](https://developer.android.com/topic/libraries/architecture/lifecycle)  help you manage your activity and fragment lifecycles. Survive configuration changes, avoid memory leaks and easily load data into your UI.
+
+ 
+- [ ] Use LiveData to build data objects that notify views when the underlying database changes
+  -  [Top Architecture Components LiveData and Lifecycle](https://www.youtube.com/watch?v=juyGXCvjWyw)
+  - [droidcon NYC 2017 - ViewModels, LiveData and Lifecycles, oh my!](https://www.youtube.com/watch?v=SlZVYkhoSq8) 
+  -  [Team TreehouseData Persistence with Room](https://teamtreehouse.com/library/data-persistence-with-room)
+  - [When and why to use Android LiveData @SearsIsrael](https://medium.com/sears-israel/when-and-why-to-use-android-livedata-93d7dd949138)
+
+-  ViewModel Stores UI-related data that isn't destroyed on app rotations. Note it doesn't replace savedInstanceState
+   
+-  Room is an a SQLite object mapping library. Use it to Avoid boilerplate code and easily convert SQLite table data to Java objects. Room provides compile time checks of SQLite statements and can return RxJava, Flowable and LiveData observables.
+ [Android Developers Page](https://developer.android.com/training/data-storage/room/accessing-data)
+  
+- [ ] Insert with @Insert DAO (Database Access Objects)
+  - [Insert into your Database Table](https://developer.android.com/training/data-storage/room/accessing-data#convenience-insert)
+- [ ] Update or delete existing items in a database Using DAO (Database Access Objects)
+  - [Update Information information in your Databse](https://developer.android.com/training/data-storage/room/accessing-data#convenience-update)
+  - [Delete Information information in your Databse](https://developer.android.com/training/data-storage/room/accessing-data#convenience-delete)
+
+- [Android Repository Pattern using RX & Room @Corebuild](https://medium.com/corebuild-software/android-repository-pattern-using-rx-room-bac6c65d7385)
+
+- [Room with a View - Android Codelab](https://codelabs.developers.google.com/codelabs/android-room-with-a-view/#0)
+- [Build an App with Architecture Components- Android Codelab](https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html?index=..%2F..%2Findex#0)
+
+- [Android Architecture Components-Paging Libary](https://developer.android.com/topic/libraries/architecture/paging/)
+   - [Introduction to Paging Libary](https://www.youtube.com/watch?v=QVMqCRs0BNA)
+  - [Architecture Components - Introduction (Google I/O '17)](https://www.youtube.com/watch?v=FrteWKKVyzI)
+  - [Android Jetpack: manage infinite lists with RecyclerView and Paging (Google I/O '18)](https://www.youtube.com/watch?v=BE5bsyGGLf4)
+  - [Android Jetpack: what's new in Architecture Components (Google I/O '18)](https://www.youtube.com/watch?v=pErTyQpA390)
+  - [Data Persistence with Room-TeamTreehouse
+](https://teamtreehouse.com/library/data-persistence-with-room)
+  - [Udacity has Updated their Course and also added Architecutre Componemts Course also](https://in.udacity.com/course/new-android-fundamentals--ud851)
+ ### My Advice is to Keep Learning and Looking for Materials that will help you become an Awesome Android Developerand take the exam!!!
 
 # License
 
