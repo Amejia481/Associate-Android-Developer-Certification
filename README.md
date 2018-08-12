@@ -280,6 +280,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [Data Persistence with Room-TeamTreehouse
 ](https://teamtreehouse.com/library/data-persistence-with-room)
   - [Udacity has Updated their Course and also added Architecutre Componemts Course also](https://in.udacity.com/course/new-android-fundamentals--ud851)
+  
+  Thanks to [Pheonix73](https://github.com/Pheonix73) to contributing this section.
  ### My Advice is to Keep Learning and Looking for Materials that will help you become an Awesome Android Developerand take the exam!!!
 
 # License
