@@ -252,7 +252,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [droidcon NYC 2017 - ViewModels, LiveData and Lifecycles, oh my!](https://www.youtube.com/watch?v=SlZVYkhoSq8) 
   -  [Team TreehouseData Persistence with Room](https://teamtreehouse.com/library/data-persistence-with-room)
   - [When and why to use Android LiveData @SearsIsrael](https://medium.com/sears-israel/when-and-why-to-use-android-livedata-93d7dd949138)
-
+  - [Android Developers BackStage Episode 72: Architecture Components 1 - Lifecycle
+](https://androidbackstage.blogspot.com/2017/06/episode-72-architecture-components-1.html)
 -  ViewModel Stores UI-related data that isn't destroyed on app rotations. Note it doesn't replace savedInstanceState
    
 -  Room is an a SQLite object mapping library. Use it to Avoid boilerplate code and easily convert SQLite table data to Java objects. Room provides compile time checks of SQLite statements and can return RxJava, Flowable and LiveData observables.
@@ -260,9 +261,11 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   
 - [ ] Insert with @Insert DAO (Database Access Objects)
   - [Insert into your Database Table](https://developer.android.com/training/data-storage/room/accessing-data#convenience-insert)
+  - [Android Developers BackStage Episode 73: Architecture Components 2 - Persistence](https://androidbackstage.blogspot.com/2017/07/episode-73-architecture-components-2.html)
 - [ ] Update or delete existing items in a database Using DAO (Database Access Objects)
   - [Update Information information in your Databse](https://developer.android.com/training/data-storage/room/accessing-data#convenience-update)
-  - [Delete Information information in your Databse](https://developer.android.com/training/data-storage/room/accessing-data#convenience-delete)
+  - [Delete Information information in your Databse](https://developer.android.com/training/data-storage/room/accessing-data#convenience-delete)  
+  - [Android Developers BackStage Episode 73: Architecture Components 2 - Persistence](https://androidbackstage.blogspot.com/2017/07/episode-73-architecture-components-2.html)
 
 - [Android Repository Pattern using RX & Room @Corebuild](https://medium.com/corebuild-software/android-repository-pattern-using-rx-room-bac6c65d7385)
 
