@@ -33,8 +33,10 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 #### Testing and Debugging
 >Writing tests to verify that the application's logic and user interface are performing as expected, and executing those tests using the developer tools. Candidates should be able to analyze application crashes, and find common bugs such as layout errors and memory leaks. This includes working with the debuggers to step through application code and verify expected behavior.
 
-- [ ] Write and execute a local JVM unit test
-  - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/) 
+
+- Write and execute a local JVM unit test
+  - [ ] [[Fragmented Podcast] Episode 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/) 
+  - [ ] [[Fragmented Podcast] Episode 7 Jake Wharton on Testing, SqlBrite, NotRxAndroid, RxJava and Much More](http://fragmentedpodcast.com/episodes/7/) 
   - [ ] Getting Started with Testing 
     - [ ] [Android Developer Training][testing_and_debuggin_getting_started_testing]
     - [ ] [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
@@ -72,6 +74,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 
 #### Application User Interface (UI) and User Experience (UX)
 >Implementation of the visual and navigational components of an application's design. This includes constructing layouts–using both XML and Java code–that consist of the standard framework UI elements as well as custom views. Candidates should have a working knowledge of using view styles and theme attributes to apply a consistent look and feel across an entire application. Understanding of how to include features that expand the application's audience through accessibility and localization may also be required.
+
+- [ ] [[Fragmented Podcast] Episode 071: UI UX development with GDE Raveesh](http://fragmentedpodcast.com/episodes/71/) 
 
 - [ ] Mock up the main screens and navigation flow of the application
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
