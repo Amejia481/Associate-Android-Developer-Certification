@@ -267,8 +267,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [Insert into your Database Table](https://developer.android.com/training/data-storage/room/accessing-data#convenience-insert)
   - [Android Developers BackStage Episode 73: Architecture Components 2 - Persistence](https://androidbackstage.blogspot.com/2017/07/episode-73-architecture-components-2.html)
 - [ ] Update or delete existing items in a database Using DAO (Database Access Objects)
-  - [Update Information information in your Databse](https://developer.android.com/training/data-storage/room/accessing-data#convenience-update)
-  - [Delete Information information in your Databse](https://developer.android.com/training/data-storage/room/accessing-data#convenience-delete)  
+  - [Update information in your Databse](https://developer.android.com/training/data-storage/room/accessing-data#convenience-update)
+  - [Delete information in your Databse](https://developer.android.com/training/data-storage/room/accessing-data#convenience-delete)  
   - [Android Developers BackStage Episode 73: Architecture Components 2 - Persistence](https://androidbackstage.blogspot.com/2017/07/episode-73-architecture-components-2.html)
 
 - [Android Repository Pattern using RX & Room @Corebuild](https://medium.com/corebuild-software/android-repository-pattern-using-rx-room-bac6c65d7385)
