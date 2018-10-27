@@ -148,7 +148,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [[Udacity Course] Advanced Android App Development Lesson: Libraries](https://www.udacity.com/course/advanced-android-app-development--ud855)
 
 #### Persistent Data Storage
->Determining appropriate use cases for local [persisted data](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzafwjoVUcx9283oIbJQvFC), and designing solutions to implement data storage using files,saving key-value pairs using the preference API and databases. This includes implementing strategies for bundling static data with applications, caching data from remote sources, and managing user-generated private data. Candidates should also be able to describe platform features that allow applications to store data securely and share that data with other applications in a secure manner.
+>Determining appropriate use cases for local [persisted data](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzafwjoVUcx9283oIbJQvFC), and designing solutions to implement data storage using files,prefrences and databases. This includes implementing strategies for bundling static data with applications, caching data from remote sources, saving key-value pairs using the preference API and managing user-generated private data. Candidates should also be able to describe platform features that allow applications to store data securely and share that data with other applications in a secure manner.
 
 - [ ] Define a database schema; include tables, fields, and indices
   - [ ] [[Android Developers Page]  Saving Data in SQL Databases][db_android_guide_database]
