@@ -267,8 +267,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [Insert into your Database Table](https://developer.android.com/training/data-storage/room/accessing-data#convenience-insert)
   - [Android Developers BackStage Episode 73: Architecture Components 2 - Persistence](https://androidbackstage.blogspot.com/2017/07/episode-73-architecture-components-2.html)
 - [ ] Update or delete existing items in a database Using DAO (Database Access Objects)
-  - [Update information in your Databse](https://developer.android.com/training/data-storage/room/accessing-data#convenience-update)
-  - [Delete information in your Databse](https://developer.android.com/training/data-storage/room/accessing-data#convenience-delete)  
+  - [Update information in your Database](https://developer.android.com/training/data-storage/room/accessing-data#convenience-update)
+  - [Delete information in your Database](https://developer.android.com/training/data-storage/room/accessing-data#convenience-delete)  
   - [Android Developers BackStage Episode 73: Architecture Components 2 - Persistence](https://androidbackstage.blogspot.com/2017/07/episode-73-architecture-components-2.html)
 
 - [Android Repository Pattern using RX & Room @Corebuild](https://medium.com/corebuild-software/android-repository-pattern-using-rx-room-bac6c65d7385)
@@ -283,7 +283,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [Android Jetpack: what's new in Architecture Components (Google I/O '18)](https://www.youtube.com/watch?v=pErTyQpA390)
   - [Data Persistence with Room-TeamTreehouse
 ](https://teamtreehouse.com/library/data-persistence-with-room)
-  - [Udacity has Updated their Course and also added Architecutre Componemts Course also](https://in.udacity.com/course/new-android-fundamentals--ud851)
+  - [Udacity has Updated their Course and also added Architecutre Components Course also](https://in.udacity.com/course/new-android-fundamentals--ud851)
   
   Thanks to [Pheonix73](https://github.com/Pheonix73) to contributing this section.
  ### My Advice is to Keep Learning and Looking for Materials that will help you become an Awesome Android Developerand take the exam!!!
