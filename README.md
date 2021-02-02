@@ -27,7 +27,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [Associate Android Developer certification Specs][certification_specs]
 - [Udacity Course Developing Android Apps Covers the Certification Topics][developing_apps_udacity]
 - [Associate Android Developer Fast Track][fast_track]
-- [Android Developer Fundamentals](https://developers.google.com/training/courses/android-fundamentals)
+- [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2)
 
 ### Certification topics
 
